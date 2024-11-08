@@ -6,7 +6,7 @@ Création du site complet Le garde manger en HTML5, CSS3 et Bootstrap avec une p
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/restaurant_le_garde_manger/
 
 ## Projet développé avec
 
