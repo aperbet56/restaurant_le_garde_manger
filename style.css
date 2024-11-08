@@ -110,6 +110,8 @@ iframe {
     height: 400px;
 }
 
+/**** Page menu ****/
+
 .recipe {
     width: 500px;
     height: 500px;
@@ -125,6 +127,14 @@ iframe {
 
 @media screen and (max-width: 768px) {
     header {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 472px) {
+    header ul {
         flex-direction: column;
         justify-content: center;
         align-items: center;
