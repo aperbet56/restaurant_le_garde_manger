@@ -14,6 +14,8 @@ Lien vers le projet : https://aperbet56.github.io/restaurant_le_garde_manger/
 - CSS3
 - Flexbox
 - Animations CSS
+- Page web responsive
+- Desktop first
 - Importation de la police "Quicksand"
 - Importation de la police "Oleo Script Swash Caps"
 - Bootstrap
