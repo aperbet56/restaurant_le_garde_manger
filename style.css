@@ -20,6 +20,8 @@ body {
     width: 100%;
     min-height: 100vh;
     background-color: #f6f6f6;
+    perspective: 1000px;
+    transform-style: preserve-3d;
 }
 
 .logo {
